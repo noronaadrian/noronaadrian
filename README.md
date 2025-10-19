@@ -47,7 +47,7 @@
   <a href="https://web.facebook.com/Turonskiiee" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/facebook-new.png" width="40" height="40"/>
   </a>
-  <a href="mailto:norona.leeadrian022804@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=norona.leeadrian022804@gmail.com" rel="noreferrer">
     <img src="https://img.icons8.com/color/48/gmail-new.png" width="40" height="40" alt="Gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/yourlinkedinusername/" target="_blank">
