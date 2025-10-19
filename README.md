@@ -47,9 +47,9 @@
   <a href="https://web.facebook.com/Turonskiiee" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/facebook-new.png" width="40" height="40"/>
   </a>
-  <a href="mailto:norona.leeadrian022804@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" width="40" height="40"/>
-  </a>
+<a href="mailto:norona.leeadrian022804@gmail.com">
+  <img src="https://img.icons8.com/color/48/gmail-new.png" width="40" height="40" alt="Gmail"/>
+</a>
   <a href="https://www.linkedin.com/in/yourlinkedinusername/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" height="40"/>
   </a>
