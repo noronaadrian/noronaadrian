@@ -44,10 +44,10 @@
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.facebook.com/yourfacebookusername" target="_blank">
+  <a href="(https://web.facebook.com/Turonskiiee)" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/facebook-new.png" width="40" height="40"/>
   </a>
-  <a href="mailto:yourgmail@gmail.com" target="_blank">
+  <a href="mailto:norona.leeadrian022804@gmail.com" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" width="40" height="40"/>
   </a>
   <a href="https://www.linkedin.com/in/yourlinkedinusername/" target="_blank">
